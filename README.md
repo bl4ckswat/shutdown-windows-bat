@@ -12,6 +12,4 @@ A simple batch script to quickly shut down your computer via a `.bat` file.
 2. Run it by **double-clicking**.
 3. (Optional) Edit the file to adjust the shutdown timer.
 
-📌 Ideal for automation or specific use cases.<img src="https://img.shields.io/github/stars/bl4ckswat/shutdown-windows-bat" alt="Repo stars" align="right">
-
-
+📌 Ideal for automation or specific use cases.<img src="https://img.shields.io/github/stars/bl4ckswat/shutdown-windows-bat" alt="Repo stars" align="right"><img src="https://img.shields.io/github/languages/top/bl4ckswat/shutdown-windows-bat" alt="languages" align="right">
